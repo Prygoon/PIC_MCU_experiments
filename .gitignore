@@ -2,6 +2,7 @@ build/
 dist/
 debug/
 *.zip
+*.disasm
 # Prerequisites
 *.d
 
